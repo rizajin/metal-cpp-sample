@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/riza/github/metal-cpp-sample/build",
+  "command": "/usr/bin/clang++  -I/Users/riza/github/metal-cpp-sample/metal-cpp-extensions -I/Users/riza/github/metal-cpp-sample/metal-cpp -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -std=gnu++17 -o CMakeFiles/MetalCppWindow.dir/main.cpp.o -c /Users/riza/github/metal-cpp-sample/main.cpp",
+  "file": "/Users/riza/github/metal-cpp-sample/main.cpp"
+}
+]
