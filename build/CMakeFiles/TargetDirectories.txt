@@ -1,0 +1,5 @@
+/Users/riza/github/metal-cpp-sample/build/CMakeFiles/MetalCppWindow.dir
+/Users/riza/github/metal-cpp-sample/build/CMakeFiles/edit_cache.dir
+/Users/riza/github/metal-cpp-sample/build/CMakeFiles/rebuild_cache.dir
+/Users/riza/github/metal-cpp-sample/build/metal-cpp/CMakeFiles/edit_cache.dir
+/Users/riza/github/metal-cpp-sample/build/metal-cpp/CMakeFiles/rebuild_cache.dir
